@@ -6,6 +6,8 @@ suggestion for any interesting tips or tricks I can highlight in
 Jupyter, raise an
 [issue](https://github.com/danfowler/csvconf-intro-to-jupyter-notebooks/issues)!
 
+Slides are in `introduction-to-jupyter-notebooks.ipynb`.
+
 ## csv,conf,v3
 
 [csv,conf,v3](https://csvconf.com/) is a community conference for data
